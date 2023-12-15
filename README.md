@@ -1,2 +1,2 @@
-# colab
-A repository to save personal colab notebooks
+# About repository
+Place to store personal Jupyter notebooks created via Google colab.
